@@ -26,5 +26,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '''
 
-with open("LICENSE.md", 'w', encoding = "utf-8") as file:
-    file.write(LICENSE);
+with open("LICENSE.md", 'w', encoding="utf-8") as file:
+    file.write(LICENSE)
